@@ -1,0 +1,65 @@
+# Unity Generated Files
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+UserSettings/
+MemoryCaptures/
+
+# Asset meta files
+*.pidb.meta
+*.pidb
+
+# Visual Studio
+.vscode/
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.user
+*.userprefs
+*.dll
+*.exe
+*.pdb
+*.mdb
+*.tmp
+*.bin
+*.cache
+*.obj
+*.manifest
+*.rsp
+
+# JetBrains Rider
+.idea/
+*.iml
+*.ipr
+*.iws
+
+# Unity 2020+ Cache directories
+# This includes the Asset Pipeline 2 cache.
+[Aa]sset[Cc]ache/
+
+# Gradle Cache
+.gradle/
+*.gradle
+
+# Unity3D generated file on crash reports
+sysinfo.txt
+
+# Crashlytics generated file
+crashlytics-build.properties
+
+# Android Studio
+*.apk
+*.aar
+*.cxx/
+*.class
+*.dex
+*.keystore
+
+# Other
+.DS_Store
+Thumbs.db
+Desktop.ini
